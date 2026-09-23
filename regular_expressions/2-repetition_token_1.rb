@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-a = /hbt{2,5}n/
+a = /hb?tn/
 puts a.match(ARGV[0])
